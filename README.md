@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pasic24
-- 👀 I’m interested in Web, Mobile and Game development. I also like Computer networking. Graduated from Faculty of Electrical Engineering, University of Sarajevo (Bachelor's degree).
-- 🌱 I’m currently learning DevOps and Flutter.
+- 👀 Bachelor of Computer Science, Faculty of Electrical Engineering, University of Sarajevo
+- 📕 Devops Engineering, Game development and animations, FullStack development, Computer networking
 - 📫 How to reach me :
 1. Email: ahmedpasic@hotmail.com
 2. LinkedIn: https://www.linkedin.com/in/ahmedpasic24/
